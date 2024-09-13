@@ -1,0 +1,28 @@
+﻿/* URL Paleta de colores LIGHT: https://www.coloreasily.com/?colors=021c0d-fafffc-04b94f-d9fce8-77f3ab */
+/* URL Paleta de colores DARK: https://www.coloreasily.com/?colors=f1f9f6-0f241c-04b94f-132c2f-5cbc66 */
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Basic');
+@import url('https://fonts.googleapis.com/css2?family=Rasa');
+@import url('https://fonts.googleapis.com/css2?family=Karma');
+
+:root {
+   --light-color-texto: #021c0d;
+   --light-color-fondo: #fafffc;
+   --light-color-acento-1: #04b94f;
+   --light-color-acento-2: #d9fce8;
+   --light-color-acento-3: #77f3ab;
+   --dark-color-texto: #f1f9f6;
+   --dark-color-fondo: #0f241c;
+   --dark-color-acento-1: #04b94f;
+   --dark-color-acento-2: #132c2f;
+   --dark-color-acento-3: #5cbc66;
+}
+
+ .light-theme {
+   color: #021c0d;
+   background-color: #fafffc;
+}
+
+.dark-theme {
+   color: #f1f9f6;
+   background-color: #0f241c;
+}
